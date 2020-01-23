@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\ravor\Desktop\Programming\Java\001 Hello World\.metadata\.plugins\org.eclipse.jdt.core
+1269627254.index
+1664405848.index
+1188310879.index

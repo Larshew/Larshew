@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_array">
+        <item>강남구</item>
+        <item>관악구</item>
+        <item>노원구</item>
+        <item>동작구</item>
+        <item>마포구</item>
+    </string-array>
+</resources>
